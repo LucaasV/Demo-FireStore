@@ -1,0 +1,15 @@
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\bin\Debug\net6.0\DemoFireStore.Infra.deps.json
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\bin\Debug\net6.0\DemoFireStore.Infra.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\bin\Debug\net6.0\DemoFireStore.Infra.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\bin\Debug\net6.0\DemoFireStore.Domain.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\bin\Debug\net6.0\DemoFireStore.Domain.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.csproj.AssemblyReference.cache
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.GeneratedMSBuildEditorConfig.editorconfig
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.AssemblyInfoInputs.cache
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.AssemblyInfo.cs
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.csproj.CoreCompileInputs.cache
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.csproj.CopyComplete
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\refint\DemoFireStore.Infra.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\DemoFireStore.Infra.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Infra\obj\Debug\net6.0\ref\DemoFireStore.Infra.dll

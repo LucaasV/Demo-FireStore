@@ -1,0 +1,17 @@
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Service.deps.json
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Service.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Service.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Domain.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Infra.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Domain.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\bin\Debug\net6.0\DemoFireStore.Infra.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.csproj.AssemblyReference.cache
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.GeneratedMSBuildEditorConfig.editorconfig
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.AssemblyInfoInputs.cache
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.AssemblyInfo.cs
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.csproj.CoreCompileInputs.cache
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.csproj.CopyComplete
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\refint\DemoFireStore.Service.dll
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\DemoFireStore.Service.pdb
+L:\DemoFireStore\DemoFireStore\src\DemoFireStore.Service\obj\Debug\net6.0\ref\DemoFireStore.Service.dll

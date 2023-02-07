@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.API\\DemoFireStore.API.csproj": {}
+  },
+  "projects": {
+    "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.API\\DemoFireStore.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.API\\DemoFireStore.API.csproj",
+        "projectName": "DemoFireStore.API",
+        "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.API\\DemoFireStore.API.csproj",
+        "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
+        "outputPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj": {
+                "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj"
+              },
+              "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Service\\DemoFireStore.Service.csproj": {
+                "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Service\\DemoFireStore.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.14.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj",
+        "projectName": "DemoFireStore.Domain",
+        "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj",
+        "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
+        "outputPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Google.Cloud.Firestore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Infra\\DemoFireStore.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Infra\\DemoFireStore.Infra.csproj",
+        "projectName": "DemoFireStore.Infra",
+        "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Infra\\DemoFireStore.Infra.csproj",
+        "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
+        "outputPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj": {
+                "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Service\\DemoFireStore.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Service\\DemoFireStore.Service.csproj",
+        "projectName": "DemoFireStore.Service",
+        "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Service\\DemoFireStore.Service.csproj",
+        "packagesPath": "C:\\Users\\lucaa\\.nuget\\packages\\",
+        "outputPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\lucaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj": {
+                "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Domain\\DemoFireStore.Domain.csproj"
+              },
+              "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Infra\\DemoFireStore.Infra.csproj": {
+                "projectPath": "L:\\DemoFireStore\\DemoFireStore\\src\\DemoFireStore.Infra\\DemoFireStore.Infra.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
